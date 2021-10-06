@@ -747,6 +747,106 @@ section {
   padding: 0 20px 20px 20px;
 }
 
+/*PRUEBAAAAAAAAAAAAAAAAAAAA
+
+/* New About Us Section
+--------------------------------*/
+#new {
+  background: url("../img/Entregable5/pared-con-pintura-industrial-construcción-de-y-deteriorada-textura-arquitectónica-202787917.jpg") center top no-repeat fixed;
+  background-size: cover;
+  padding: 60px 0 40px 0;
+  position: relative;
+}
+
+#new {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.92);
+  z-index: 9;
+}
+
+#new {
+  position: relative;
+  z-index: 10;
+}
+
+#new {
+  background: #fff;
+  border-radius: 0 0 4px 4px;
+  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
+  margin-bottom: 20px;
+}
+
+#new .about-col .img {
+  position: relative;
+}
+
+#new .about-col .img img {
+  border-radius: 4px 4px 0 0;
+}
+
+#new .about-col .icon {
+  width: 64px;
+  height: 64px;
+  text-align: center;
+  position: absolute;
+  background-color: #66e6c6;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  left: calc( 50% - 32px);
+  bottom: -30px;
+  transition: 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#new .about-col i {
+  font-size: 28px;
+  line-height: 0;
+  color: #fff;
+  transition: 0.3s;
+}
+
+#new .about-col:hover .icon {
+  background-color: #fff;
+}
+
+#new .about-col:hover i {
+  color: #66e6c6;
+}
+
+#new .about-col h2 {
+  color: #000;
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 0;
+  margin: 40px 0 12px 0;
+}
+
+#new .about-col h2 a {
+  color: #000;
+}
+
+#new .about-col h2 a:hover {
+  color: #66e6c6;
+}
+
+#new .about-col p {
+  font-size: 14px;
+  line-height: 24px;
+  color: #333;
+  margin-bottom: 0;
+  padding: 0 20px 20px 20px;
+}
+
+-------------------------------*/
+
 /* Services Section
 --------------------------------*/
 #services {
