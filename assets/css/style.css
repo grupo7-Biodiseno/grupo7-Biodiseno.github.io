@@ -1565,12 +1565,12 @@ section {
   margin: 0;
 }
 .features .nav-link:hover {
-  color: #ff4a17;
+  color: #66e6c6;
 }
 .features .nav-link.active {
-  background: #ff4a17;
+  background: #66e6c6;
   color: #fff;
-  border-color: #ff4a17;
+  border-color: #66e6c6;
 }
 @media (max-width: 768px) {
   .features .nav-link i {
@@ -1604,7 +1604,7 @@ section {
 .features .tab-pane ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #ff4a17;
+  color: #66e6c6;
 }
 .features .tab-pane p:last-child {
   margin-bottom: 0;
