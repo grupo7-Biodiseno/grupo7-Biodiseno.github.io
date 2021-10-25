@@ -1613,6 +1613,67 @@ section {
 /*--------------------------------------------------------------
 ///////////////////////////////////////////////////////////////////
 
+///////////////////////////////////////////////////////////////////
+/*--------------------------------------------------------------
+# gallerys
+--------------------------------------------------------------*/
+.gallerys .gallerys-item {
+  overflow: hidden;
+  border-right: 3px solid #454035;
+  border-bottom: 3px solid #454035;
+}
+.gallerys .gallerys-item img {
+  transition: all ease-in-out 0.4s;
+}
+.gallerys .gallerys-item:hover img {
+  transform: scale(1.1);
+}
+
+.gallerys {
+  overflow: hidden;
+}
+
+.gallerys .owl-nav, .gallerys .owl-dots {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.gallerys .owl-item {
+  border-left: 2px solid #fff;
+  border-right: 2px solid #fff;
+}
+
+.gallerys .owl-dot {
+  display: inline-block;
+  margin: 0 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #e0f4f5 !important;
+}
+
+.gallerys .owl-dot.active {
+  background-color: #3fbbc0 !important;
+}
+
+.gallerys .gallerys-carousel .owl-stage-outer {
+  overflow: visible;
+}
+
+.gallerys .gallerys-carousel .center {
+  border: 6px solid #3fbbc0;
+  margin: -10px;
+  box-sizing: content-box;
+  padding: 4px;
+  background: #fff;
+  z-index: 1;
+}
+
+/*--------------------------------------------------------------
+//////////////////////////////////////////////////////////////////
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 #footer {
