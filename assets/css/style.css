@@ -1509,7 +1509,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #eec341;
+  color: #41eee0;
 }
 .faq .faq-list .icon-show, .faq .faq-list .icon-close {
   font-size: 24px;
@@ -1529,7 +1529,7 @@ section {
   transition: 0.3s;
 }
 .faq .faq-list a.collapsed:hover {
-  color: #ffc107;
+  color: #0b8191;
 }
 .faq .faq-list a.collapsed .icon-show {
   display: inline-block;
