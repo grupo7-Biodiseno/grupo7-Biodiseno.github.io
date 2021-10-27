@@ -861,7 +861,7 @@ section {
 /* Call To Action mio creado para clickeable Section
 --------------------------------*/
 #click {
-  background: linear-gradient(rgba(0, 142, 99, 0.1), rgba(0, 0, 0, 0.1)), url(../img/FIQUI.attempt.callaction.jpg) fixed center center;
+  background: linear-gradient(rgba(0, 142, 99, 0.1), rgba(0, 0, 0, 0.1)), url(../img/hito2/blanco.jpg) fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
