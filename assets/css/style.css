@@ -905,23 +905,23 @@ section {
 
 * Call To Action mio creado para boton de repositorio
 --------------------------------*/
-#click {
+#repositorio {
   background: linear-gradient(rgba(38, 240, 179, 0.308), rgba(238, 186, 17, 0.397)), url(../img/hito2/blanco.jpg) fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
 
-#click h3 {
+#repositorio h3 {
   color: #fff;
   font-size: 28px;
   font-weight: 700;
 }
 
-#click p {
+#repositorio p {
   color: #fff;
 }
 
-#click .cta-btn {
+#repositorio .cta-btn {
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
@@ -936,7 +936,7 @@ section {
   color: #fff;
 }
 
-#click .cta-btn:hover {
+#repositorio .cta-btn:hover {
   background: #66e6c6;
   border: 2px solid #66e6c6;
 }
