@@ -900,6 +900,50 @@ section {
   border: 2px solid #e66666;
 }
 
+--------------------------------*/
+/* Call To Action mio creado para clickeable Section
+
+* Call To Action mio creado para boton de repositorio
+--------------------------------*/
+#click {
+  background: linear-gradient(rgba(38, 240, 179, 0.308), rgba(238, 186, 17, 0.397)), url(../img/hito2/blanco.jpg) fixed center center;
+  background-size: cover;
+  padding: 60px 0;
+}
+
+#click h3 {
+  color: #fff;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+#click p {
+  color: #fff;
+}
+
+#click .cta-btn {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 25px;
+  transition: 0.5s;
+  margin-top: 10px;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+#click .cta-btn:hover {
+  background: #66e6c6;
+  border: 2px solid #66e6c6;
+}
+
+--------------------------------*/
+/* Call To Action mio creado para boton de repositorio
+
 /* Call To Action Section
 --------------------------------*/
 #skills {
