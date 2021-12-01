@@ -527,6 +527,16 @@ section {
   padding-bottom: 15px;
 }
 
+.section-headeri h3 {
+  font-size: 32px;
+  color: rgb(241, 241, 241);
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  position: relative;
+  padding-bottom: 15px;
+}
+
 .section-header h3::before {
   content: '';
   position: absolute;
